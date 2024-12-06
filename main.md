@@ -7,12 +7,12 @@
 title: 力学逻辑
 ---
 flowchart TB
-    subgraph 分析力学
+    subgraph 牛顿力学理论
     实验规律总结-->牛顿力学
     牛顿力学-->牛顿定律
     牛顿力学-->运动定理
     end
-    subgraph 分析力学
+    subgraph 分析力学理论
     变分原理-->分析力学
     分析力学-->拉格朗日量
     分析力学-->哈密顿量
