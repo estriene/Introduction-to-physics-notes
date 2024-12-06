@@ -25,7 +25,8 @@ flowchart TB
 
 #### 历史（节选）
 
-```timeline
+```mermaid
+timeline
 title 力学领域物理学专家
 section 阿基米德（Archimedes，公元前287﹣前212）
     简介 : 古希腊哲学家、数学家、物理学家、发明家、工程师、天文学家
