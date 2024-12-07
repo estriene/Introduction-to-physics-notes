@@ -62,7 +62,7 @@ flowchart TB
 
 #### 应用
 
-简要浏览课本内容  
+[课本中的力学应用](./Machenics_applications.md)
 
 ### 热学
 
